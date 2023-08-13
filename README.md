@@ -4,17 +4,20 @@
 
 ### Packages
 
-hyprland(-nvidia)
-nvidia-dkms
-nwg-look
-thunar
-rofi
-dunst
-kitty
-ffmpegthumbnailer
-xorg-xhost
-waybar
-font-manager(to setup waybar)
+    hyprland(-nvidia)
+    nvidia-dkms
+    nwg-look
+    thunar
+    gvfs
+    firefoxoff
+    brave
+    rofi
+    dunst
+    kitty
+    ffmpegthumbnailer
+    xorg-xhost
+    waybar
+    font-manager(to setup waybar)
 
 ### Hotkeys
 
