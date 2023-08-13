@@ -8,6 +8,7 @@
     nvidia-dkms
     nwg-look
     thunar
+    gnome-keyring
     gvfs
     firefoxoff
     brave
