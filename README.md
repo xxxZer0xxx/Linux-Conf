@@ -2,6 +2,7 @@
 
 ### Fonts
 
+    adobe-source-code-pro-fonts
     noto-fonts
     noto-fonts-cjk
     noto-fonts-emoji
