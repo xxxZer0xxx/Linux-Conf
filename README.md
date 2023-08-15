@@ -2,28 +2,56 @@
 
 ### Fonts
 
+    noto-fonts
+    noto-fonts-cjk
+    noto-fonts-emoji
+    otf-firamono-nerd
+    otf-font-awesome
+    otf-sora
+    ttf-comfortaa
+    ttf-fantasque-nerd
+    ttf-firacode-nerd
+    ttf-icomoon-feather
+    ttf-iosevka-nerd
+    ttf-jetbrains-mono-nerd
+    ttf-nerd-fonts-symbols-common
+    ttf-opensans
+
 ### Packages
 
-    hyprland(-nvidia)
-    nvidia-dkms
-    nwg-look
-    thunar
+    base-devel
+    brave
+    dunst
+    ffmpegthumbnailer
+    firefox
+    font-manager
     gnome-keyring
     gvfs
-    firefoxoff
-    brave
-    rofi
-    dunst
+    hyprland-nvidia
     kitty
-    ffmpegthumbnailer
-    xorg-xhost
+    multicolor-sdd-theme
+    nano
+    neofetch
+    nvidia-dkms
+    nwg-look
+    openssh
+    openssl
+    p7zip
+    pavucontrol
+    pipe
+    qt5ct
+    qt6ct
+    rofi
+    rofi-lbonn-wayland-git
+    thunar
     waybar
-    font-manager(to setup waybar)
+    xorg-xhost
 
 ### Hotkeys
 
 ### Hints
 
+font-manager(to setup waybar)
 For gparted to run xorg-xhost is needed
 
 ### Themes
