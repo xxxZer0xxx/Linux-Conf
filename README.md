@@ -46,6 +46,7 @@
     qt5ct
     qt6ct
     rofi-lbonn-wayland-git
+    rsync
     sddm
     thunar
     thunar-volman
