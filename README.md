@@ -21,7 +21,9 @@
 
     base-devel
     brave
+    btop
     dunst
+    ffmpeg
     ffmpegthumbnailer
     firefox
     font-manager
@@ -29,6 +31,7 @@
     gvfs
     hyprland-nvidia
     kitty
+    linux-headers
     multicolor-sdd-theme
     nano
     neofetch
@@ -38,14 +41,17 @@
     openssl
     p7zip
     pavucontrol
-    pipe
+    pipewire
     qt5ct
     qt6ct
-    rofi
     rofi-lbonn-wayland-git
+    sddm
     thunar
-    waybar
+    thunar-volman
+    thunderbird
+    waybar-hyprland-git
     xorg-xhost
+    zsh
 
 ### Hotkeys
 
