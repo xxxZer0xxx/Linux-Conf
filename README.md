@@ -33,7 +33,6 @@
     hyprland-nvidia
     kitty
     linux-headers
-    multicolor-sdd-theme
     nano
     neofetch
     nvidia-dkms
@@ -48,6 +47,7 @@
     rofi-lbonn-wayland-git
     rsync
     sddm
+    sddm-sugar-candy-git
     thunar
     thunar-volman
     thunderbird
