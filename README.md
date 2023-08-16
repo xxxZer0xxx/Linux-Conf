@@ -54,8 +54,26 @@
     waybar-hyprland-git
     xorg-xhost
     zsh
+    keepassxc
+    telegram-desktop
+    nextcloud-client
 
 ### Hotkeys
+
+Kill Active - 'super+c'
+Kitty - 'ctrl+alt+t'/ 'super+q'
+Thunar - 'super+e'
+Firefox - 'super+f'
+Thunderbird - 'super+g'
+Telegram - 'super+t'
+Keepassxc - 'super+k'
+VSCode - 'super+w'
+Rofi - 'super+r'
+
+Toggle Floating - 'super+v'
+Toggle Split - 'super+j'
+Lock - 'super+l'
+WLogout - 'super+p'
 
 ### Hints
 
